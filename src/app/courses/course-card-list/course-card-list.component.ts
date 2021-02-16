@@ -4,7 +4,7 @@ import { CourseDialogComponent } from '../course-dialog/course-dialog.component'
 import { Course } from '../model/course';
 
 @Component({
-  selector: 'app-course-card-list',
+  selector: 'course-card-list',
   templateUrl: './course-card-list.component.html',
   styleUrls: ['./course-card-list.component.scss']
 })
